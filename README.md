@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @DemGam
+# 👋 Hi, I’m Alex Demyan
 - 👀 I’m interested in FrontEnd development
 - 🌱 I’m currently learning Angular
 - 💞️ I love to make games in free time
