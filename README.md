@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Alex Demyan
 - 👀 I’m interested in FrontEnd development
-- 🌱 I’m currently learning Angular
-- 💞️ I love to make games in free time
+- 🌱 I’m currently learning React
+- 💞️ I love to make games in my free time
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/dem-gam/)
 
 <!---
