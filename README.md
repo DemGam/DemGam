@@ -1,4 +1,4 @@
-<img style="border-radius: 16px;" src="https://media.licdn.com/dms/image/D4D16AQHXY9bG_myuHw/profile-displaybackgroundimage-shrink_350_1400/0/1674319783813?e=1707350400&amp;v=beta&amp;t=tCyJmoI492jFZ8uEC7qnLqygqZwr4rqmPrkPDg72nS4">
+<!---<img style="border-radius: 16px;" src="https://media.licdn.com/dms/image/D4D16AQHXY9bG_myuHw/profile-displaybackgroundimage-shrink_350_1400/0/1674319783813?e=1707350400&amp;v=beta&amp;t=tCyJmoI492jFZ8uEC7qnLqygqZwr4rqmPrkPDg72nS4">--->
 
 # 👋 Hi, I’m Alex Demyan
 - 👀 I’m interested in FrontEnd development
